@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ParcialApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Usuario</string>
+    <string name="nav_header_subtitle">usuario@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Colors</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Weather</string>
+    <string name="menu_news">News</string>
+    <string name="menu_options">About</string>
+
+    <string name="title_activity_colors">Colors</string>
+</resources>
